@@ -26,5 +26,3 @@ c.beginPath();
 c.arc(230, 150, 90, 0, Math.PI * 1.675, false);
 c.fillStyle = "deepskyblue";
 c.fill();
-
-//12 Звезд
